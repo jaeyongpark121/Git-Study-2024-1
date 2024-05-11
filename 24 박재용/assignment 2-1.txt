@@ -1,0 +1,11 @@
+commit 4d26ccf0da42680234d2705dc1d2acc4b1b29290 (HEAD -> master)
+Author: jaeyongpark121 <jaeyongpark01210121@gmail.com>
+Date:   Sat May 11 16:38:37 2024 +0900
+
+    2024320066 박재용 assignment 2-2
+
+commit 67f86ebbbae63db67f05fe19b938528dca1bb8af
+Author: jaeyongpark121 <jaeyongpark01210121@gmail.com>
+Date:   Sat May 11 16:37:07 2024 +0900
+
+    2024320066 박재용 assignment 2-1
